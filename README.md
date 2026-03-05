@@ -149,4 +149,6 @@ make package install
 
 ### Лицензия
 
+Проект распространяется под лицензией **GNU General Public License v3.0 (GPLv3)**. Подробности можно найти в файле `LICENSE`.
+
 Разработано **AnotherLabs** (Версия 1.0).
